@@ -56,7 +56,7 @@ I do not rely solely on automated scanners. My auditing process is heavily biase
 ## 📫 Connect
 
 - **X (Twitter):** [@moal](https://twitter.com/waiwaTF)
-- **Medium:** [@turrahmalan](https://medium.com/@moaludin)
+- **Medium:** [@moaludin](https://medium.com/@moaludin)
 - **LinkedIn:** [Akmal Zufa Fathurrahman](https://linkedin.com/in/akmalzufafathurrahman)
 
 > *"Security is not a feature; it's the absolute foundation."*
