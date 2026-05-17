@@ -24,7 +24,19 @@ This repository serves as an archive of my security reviews, ranging from commun
 | :--- | :--- | :--- | :--- |
 | **TSwap** | Cyfrin Updraft | [2026-04] | [Link to Report](https://github.com/akmalzufaaaf/sc-audit-portfolio/blob/main/2026-26-04-TSwap-Audit.md) |
 | **Puppy Ruffle** | Cyfrin Updraft | [2026-03] | [Link to Report](https://github.com/akmalzufaaaf/sc-audit-portfolio/blob/main/2026-03-03-PuppyRuffle-audit.pdf) |
-| **Password Store** | Cyfrin Updraft | [2026-02] | [Link to Report](https://github.com/akmalzufaaaf/sc-audit-portfolio/blob/main/2026-16-02-passwordstore-audit.pdf) | https://github.com/akmalzufaaaf/sc-audit-portfolio/blob/main/2026-16-02-passwordstore-audit.pdf
+| **Password Store** | Cyfrin Updraft | [2026-02] | [Link to Report](https://github.com/akmalzufaaaf/sc-audit-portfolio/blob/main/2026-16-02-passwordstore-audit.pdf) |
+
+### 4. 🏆 RadCipher Audit Arena
+*Recurring competitive audit arena. Weekly placements and overall standing.*
+
+**🏆 All-Time Leaderboard: 27th**
+
+| Week | Date | Placement | Report |
+| :--- | :--- | :--- | :--- |
+| **Week 15** | [2026-05] | 🏆 3rd Place | [Link to Report](https://github.com/akmalzufaaaf/sc-audit-portfolio/blob/main/2026-15-05-radcipher-audit-arena-week-15.md) |
+| **Week 13** | [2026-05] | 🏆 6th Place | [Link to Report](https://github.com/akmalzufaaaf/sc-audit-portfolio/blob/main/2026-6-05-radcipher-audit-arena-week-13.md) |
+| **Week 11** | [2026-04] | 🏆 6th Place | [Link to Report](https://github.com/akmalzufaaaf/sc-audit-portfolio/blob/main/2026-16-04-radcipher-audit-arena-week-11.md) |
+| **Week 10** | [2026-04] | 🏆 7th Place | [Link to Report](https://github.com/akmalzufaaaf/sc-audit-portfolio/blob/main/2026-9-04-radcipher-audit-arena-week-10.md) |
 
 ---
 
